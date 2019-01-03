@@ -1,0 +1,13 @@
+F:\gay\Backup\C#\mangakakalot\mangakakalot\bin\Debug\mangakakalot.exe.config
+F:\gay\Backup\C#\mangakakalot\mangakakalot\bin\Debug\mangakakalot.exe
+F:\gay\Backup\C#\mangakakalot\mangakakalot\bin\Debug\mangakakalot.pdb
+F:\gay\Backup\C#\mangakakalot\mangakakalot\obj\Debug\mangakakalot.csprojResolveAssemblyReference.cache
+F:\gay\Backup\C#\mangakakalot\mangakakalot\obj\Debug\mangakakalot.exe
+F:\gay\Backup\C#\mangakakalot\mangakakalot\obj\Debug\mangakakalot.pdb
+D:\gay\C#\mangakakalot\mangakakalot\obj\Debug\mangakakalot.csprojResolveAssemblyReference.cache
+D:\gay\C#\mangakakalot\mangakakalot\obj\Debug\mangakakalot.csproj.CoreCompileInputs.cache
+D:\gay\C#\mangakakalot\mangakakalot\bin\Debug\Mangakakalot Downloader.exe.config
+D:\gay\C#\mangakakalot\mangakakalot\bin\Debug\Mangakakalot Downloader.exe
+D:\gay\C#\mangakakalot\mangakakalot\bin\Debug\Mangakakalot Downloader.pdb
+D:\gay\C#\mangakakalot\mangakakalot\obj\Debug\Mangakakalot Downloader.exe
+D:\gay\C#\mangakakalot\mangakakalot\obj\Debug\Mangakakalot Downloader.pdb
